@@ -14,18 +14,19 @@ Additionally, it helps in maintaining records of different tests, payment dues a
 ### Data Used
 
 We will use the following relations in our database:
-
-* Patient Details
-* Test Details
-* User Login Details
-
+```
+• Patient Details
+• Test Details
+• User Login Details
+```
 ### Functionalities Provided
-
-* View, Update Patient and Test details
-* View Payment Dues
-* Report Generation with Test Analysis 
-
+```
+• View, Update Patient and Test details
+• View Payment Dues
+• Report Generation with Test Analysis 
+```
 ### Tools
-
-- Front End - Java
-- Back End - Oracle
+```
+• Front End - Java
+• Back End - Oracle
+```
